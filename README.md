@@ -1,7 +1,7 @@
 # Assignment 2 Android App – NIT3213
 
 This Android application was developed as part of **Assignment 2** for the NIT3213 unit at Victoria University.  
-The app demonstrates secure login, dashboard data display, and detail viewing by integrating with the public VU API service. It uses modern Android development best practices including MVVM, Retrofit, Hilt, and ViewBinding.
+The app demonstrates secure login, dashboard data display, and detail viewing by integrating with the public VU API service. It use modern Android development best practices including MVVM, Retrofit, Hilt, and ViewBinding.
 
 
 
