@@ -69,7 +69,7 @@ com.example.vuapp
 └── MainApplication.kt                  
 
 
-## 4. Dependencies
+ ## 4. Dependencies
 
     kotlin
 // Retrofit
