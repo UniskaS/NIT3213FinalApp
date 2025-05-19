@@ -99,7 +99,7 @@ Endpoint	Method	Description
 /footscray/auth	POST	Login (based on location)
 /dashboard/{keypass}	GET	Retrieve destination entities list
 
- ##6. UI/UX
+ ## 6. UI/UX
   1.Follows modern Material Design principles
 
   2.Scrollable layouts for long content
@@ -115,7 +115,7 @@ Endpoint	Method	Description
    4.Includes logout and back navigation
 
    5.Responsive and accessible on emulator and device
-##7. Testing
+## 7. Testing
  1.Tested on  emulator.
 
   2.Verified:
@@ -128,7 +128,7 @@ Endpoint	Method	Description
 
   3.Optional unit tests available for ViewModel logic
 
-##8. How to Use the App
+## 8. How to Use the App
  1.Open the project in Android Studio.
 
 2.Connect a physical Android device or emulator.
@@ -147,7 +147,7 @@ Endpoint	Method	Description
 
   6.Press Logout to return to the login screen.
 
-##9. License
+## 9. License
 This project was developed solely for academic purposes as part of the NIT3213 course at Victoria University.
 Use is limited to educational demonstrations and assessments.
 
