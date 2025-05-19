@@ -129,23 +129,23 @@ Endpoint	Method	Description
   3.Optional unit tests available for ViewModel logic
 
 ## 8. How to Use the App
- 1.Open the project in Android Studio.
+Open the project in Android Studio.
 
-2.Connect a physical Android device or emulator.
+Connect a physical Android device or emulator.
 
-3.Run the app.
+Run the app.
 
-  1.On the login screen, enter:
+On the login screen, enter:
 
-  2.Username: Your first name
+Username: Your first name
 
-  3.Password: Your student ID (e.g., s12345678)
+Password: Your student ID (e.g., s12345678)
 
-  4.If successful, you will see the list of entities.
+If successful, you will see the list of destinations.
 
-  5.Click any item to view its full details.
+Click any item to view its full details.
 
-  6.Press Logout to return to the login screen.
+Press Logout to return to the login screen.
 
 ## 9. License
 This project was developed solely for academic purposes as part of the NIT3213 course at Victoria University.
